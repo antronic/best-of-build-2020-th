@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.737e73a0.chunk.css",
+    "main.js": "/static/js/main.fa7bbcdf.chunk.js",
+    "main.js.map": "/static/js/main.fa7bbcdf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8ae1765.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8ae1765.js.map",
+    "static/js/2.1548d243.chunk.js": "/static/js/2.1548d243.chunk.js",
+    "static/js/2.1548d243.chunk.js.map": "/static/js/2.1548d243.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5a0e455a9ba5776a9dd6abaf5ea81aaf.js": "/precache-manifest.5a0e455a9ba5776a9dd6abaf5ea81aaf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.737e73a0.chunk.css.map": "/static/css/main.737e73a0.chunk.css.map",
+    "static/js/2.1548d243.chunk.js.LICENSE.txt": "/static/js/2.1548d243.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/bob2020-bg.5bcd457e.jpg",
+    "static/media/logo.svg": "/static/media/logo.cd2fd5e7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8ae1765.js",
+    "static/js/2.1548d243.chunk.js",
+    "static/css/main.737e73a0.chunk.css",
+    "static/js/main.fa7bbcdf.chunk.js"
+  ]
+}
